@@ -15,4 +15,5 @@ Run the tool
 Enter the target URL or a list of URLs
 Start the scan
 Review the results for possible vulnerabilities
-📸 Screenshot:https://i.imgur.com/qVVNdHL.png
+📸 Screenshot:
+<img src="https://i.imgur.com/qVVNdHL.png" alt="Tool Screenshot" width="700"/>
