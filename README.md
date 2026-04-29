@@ -17,3 +17,8 @@ Start the scan
 Review the results for possible vulnerabilities
 📸 Screenshot:
 <img src="https://i.imgur.com/qVVNdHL.png" alt="Tool Screenshot" width="700"/>
+
+⚠️ Disclaimer:
+
+This tool is intended for educational and authorized security testing purposes only.
+Any unauthorized use against systems without explicit permission is strictly illegal and unethical.
